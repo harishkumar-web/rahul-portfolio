@@ -43,6 +43,6 @@ rahul-portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
+├── rahul.jpg/
 │
 └── README.md
