@@ -1,4 +1,4 @@
-# Rahul Pal - Portfolio
+# Rahul Pal's - Portfolio
 
 A modern and responsive personal portfolio website created for Rahul Pal, a BCA student and aspiring frontend developer.
 
